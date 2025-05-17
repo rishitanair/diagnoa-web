@@ -1,1 +1,1 @@
-# Predictor_disease
+# DIAGNOA
